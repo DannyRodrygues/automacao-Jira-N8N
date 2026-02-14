@@ -47,4 +47,4 @@ Se você deseja replicar este projeto, atente-se aos seguintes campos:
 * **Expressão de Trava:** `{{ $json.fields.description }} - comentado_por_dani`.
 
 ---
-Developed with ❤️ by [Dani](https://github.com/DannyRodrygues)
+Developed with ☕ by [Dani](https://github.com/DannyRodrygues)
