@@ -35,8 +35,7 @@ O fluxo de trabalho (Workflow) construído no **n8n** segue quatro etapas fundam
 ## 📖 Documentação Completa
 Para ver o passo a passo detalhado com prints de tela e explicações para iniciantes, acesse nossa página oficial:
 
-👉 **<a href="https://dannyrodrygues.github.io/automacao-Jira-N8N/" target="_blank">Visualizar Documentação Completa</a>**
-
+👉 **<a href="https://automacao-jira-n8-n.vercel.app/" target="_blank">Visualizar Documentação Completa</a>**
 ---
 
 ## 🛠️ Configuração Técnica (Resumo)
